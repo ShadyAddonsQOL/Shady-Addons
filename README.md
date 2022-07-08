@@ -2,9 +2,12 @@
 
 The most prevelant QOL mod in hypixel skyblock with over 24,000 downloads, ShadyAddons makes your skyblock grind easier, from macroing mining to auto completing f7 and m7 terminals! Used by over 70% of players with over 20k senither weight, ShadyAddons is trusted by the community, with regular updates to ensure your QOL experience remains up to date.
 
-![image](https://user-images.githubusercontent.com/108960739/178081948-b7eaaf5d-d1e7-49f9-a874-474666818911.png) ![image](https://user-images.githubusercontent.com/108960739/178081951-b2ff6d42-309b-4e4f-926b-add95d5a44da.png)
+![image](https://user-images.githubusercontent.com/108960739/178081948-b7eaaf5d-d1e7-49f9-a874-474666818911.png) 
+Crystal Reach
 
-Crystal Reach           Routines and Macros
+![image](https://user-images.githubusercontent.com/108960739/178081951-b2ff6d42-309b-4e4f-926b-add95d5a44da.png)
+Routines and Macros
+
 
 ![image](https://user-images.githubusercontent.com/108960739/178081958-53aad5cc-1298-4159-b90e-202d7fd7929a.png) ![image](https://user-images.githubusercontent.com/108960739/178081969-d2aa027a-fe62-49f9-b5e2-138f38378b2c.png)
 
